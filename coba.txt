@@ -1,0 +1,3 @@
+ini adalah text 
+
+int text yang lain
